@@ -35,3 +35,17 @@
 <img width="1648" height="901" alt="image" src="https://github.com/user-attachments/assets/732203c7-c0e8-4ae4-b6c2-ad28d96c66da" />
 <img width="1114" height="837" alt="image" src="https://github.com/user-attachments/assets/6dc865d6-769f-439e-a89f-22be3e2d6b8f" />
 
+
+## Technical Skills Demonstrated
+
+PHP backend development
+
+MySQL database integration
+
+CRUD operations (Create, Read, Update, Delete)
+
+Session-based authentication
+
+Admin panel implementation
+
+Basic frontend with HTML & CSS
